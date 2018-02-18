@@ -18,3 +18,6 @@
   ```sudo python keyboard-controlled.py```
   
 * Use keyboard keys: W, A, S, D to control the car.
+
+## Result
+![Image of the lego car prototype](https://github.com/joan-domingo/Raspberry-Pi-Controlled-Lego-Car/blob/master/media/prototype-1.jpg)
