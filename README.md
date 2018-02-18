@@ -13,6 +13,7 @@
 
 ## Instructions
 * Install [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) to access the Raspberry Pi remotely.
+* Update BrickPi to the latest version. [See here](https://github.com/DexterInd/BrickPi3#quick-install)
 * Run on the console:
 
   ```sudo python keyboard-controlled.py```
